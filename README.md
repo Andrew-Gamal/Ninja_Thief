@@ -1,2 +1,2 @@
-# Ninja_Thief
-Web Platformer game with Phaser 3
+# NinjaThief
+First Phaser game
